@@ -36,3 +36,7 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "appcleaner", "1.0.0"
+github "github_for_mac", "1.0.1"
+github "textmate",   "1.1.0"
